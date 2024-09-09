@@ -9,9 +9,6 @@
 ## The Purpose of my Project
 
 
-### `moduleA.js`
-
-
 ## Technologies Used
 
 - React
@@ -21,14 +18,6 @@
 - Spotify API 
  
 
-
-### `Button.css`
-
-```css
-.Button {
-  padding: 20px;
-}
-```
 ## Features
 
 
